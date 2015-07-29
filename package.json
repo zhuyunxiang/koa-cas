@@ -1,0 +1,15 @@
+{
+  "name": "koa-cas",
+  "version": "0.0.1",
+  "description": "cas login,cas1 only,not support cas2 and other",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "minuux",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^1.3.2",
+    "pixl-xml": "^1.0.3"
+  }
+}
