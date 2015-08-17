@@ -35,5 +35,5 @@ app.listen(3000);
 
 ## Licence
 
-MIT
+MIT. Copyright (c) 2015 by Zhixin li
 
